@@ -1,9 +1,8 @@
 # com-buildings-app
 A proof of learning about Github and Git, for group Jonas, Michael and Jens
 
-<<<<<<< HEAD
-- [X] Remove Revert branch
-=======
-- [x] Remove dummy misk branch
-- [x] Removed "Database" Test Branch
->>>>>>> master
+- [X] Add Database layers
+- [X] Add Business layers
+- [X] Add Presentation layers
+- [ ] Add Database Population Project
+
